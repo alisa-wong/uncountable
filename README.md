@@ -21,5 +21,6 @@ To be improved:
   - When an experiment is still selected and the user is not hovering over any points, have non-selected points have lowered opacity
 - Make it clearer to the user that when clicking on a point, full experiment detail is displayed
 
-Other features:
+Features that were not implemented:
 - Be able to select which inputs are shown if there are multiple in the category
+- Be able to select two experiments to compare full details
